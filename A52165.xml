@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miles Christianus, a sermon preached to the Artillery-Company, October 16, 1673, at St. Michaels in Cornhill by Charles Mason.</title>
+            <author>Mason, Charles, 1616-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52165</idno>
+            <idno type="STC">Wing M910</idno>
+            <idno type="STC">ESTC R15785</idno>
+            <idno type="EEBO-CITATION">12951581</idno>
+            <idno type="OCLC">ocm 12951581</idno>
+            <idno type="VID">95929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95929)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 720:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Miles Christianus, a sermon preached to the Artillery-Company, October 16, 1673, at St. Michaels in Cornhill by Charles Mason.</title>
+                  <author>Mason, Charles, 1616-1677.</author>
+                  <author>England and Wales. Army. Honourable Artillery Company of London.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Tooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 1st, II, 3 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95929:1" rendition="simple:additions"/>
+            <p>
+               <hi>MILES CHRISTIAN<g ref="char:V">Ʋ</g>S,</hi> A SERMON Preached to the ARTILLERY-COMPANY.</p>
+            <p>October 16. 1673.</p>
+            <p>AT St. <hi>Michaels</hi> in <hi>Cornhill.</hi>
+            </p>
+            <p>By <hi>Charles Maſon.</hi> D. D.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Tooke</hi> Book-ſeller, at the Ship in St. <hi>Pauls</hi> Church-yard. MDCLXXIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:95929:2"/>
+            <pb facs="tcp:95929:2"/>
+            <head>To my moſt Honoured Friends.</head>
+            <head type="sub">
+               <list>
+                  <item>Sr. <hi>John Robinſon</hi> Knight and Baro<g ref="char:EOLhyphen"/>ronet, Lieutenant of his Majeſties Tower of <hi>London,</hi> Alderman and Pre<g ref="char:EOLhyphen"/>ſident of the Artillery Company.</item>
+                  <item>Sr. <hi>Joſeph Sheldon</hi> Knight and Alder<g ref="char:EOLhyphen"/>man, Vice-Preſident.</item>
+                  <item>Sr. <hi>Thomas Player</hi> Knight, Leader.</item>
+                  <item>Colonel <hi>John Mews,</hi> Treaſurer.</item>
+                  <item>
+                     <list>
+                        <head>Stewards.</head>
+                        <item>Major <hi>Nathaniel Brooks.</hi>
+                        </item>
+                        <item>Captain <hi>John Cairie.</hi>
+                        </item>
+                        <item>Major <hi>Henry Steed.</hi>
+                        </item>
+                        <item>Captain <hi>John Eaton.</hi>
+                        </item>
+                        <item>Cap. <hi>Edward Beeker.</hi>
+                        </item>
+                        <item>Cap. <hi>Peter Rich.</hi>
+                        </item>
+                        <item>Cap. <hi>Richard VVinche.</hi>
+                        </item>
+                        <item>Cap. <hi>Richard Kinſey.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+And to the whole Court of Aſſi<g ref="char:EOLhyphen"/>ſtants, Field Officers, Captains, and Gentlemen in that Famous and Ho<g ref="char:EOLhyphen"/>hourable Society.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Am prevented in moſt excuſes, for pub<g ref="char:EOLhyphen"/>liſhing this which I ſcarcely dare call a <hi>Sermon.</hi> I cannot plead ſpecial com<g ref="char:EOLhyphen"/>mand
+<pb facs="tcp:95929:3"/>nor yet importunity, it was but a mo<g ref="char:EOLhyphen"/>deſt Requeſt, which had therefore the force of a Precept with me, becauſe I am told that my Trumpet was not ſhrill enough to be heard by thoſe at a diſtance, I wanted the new in<g ref="char:EOLhyphen"/>vention, or they an Otocouſticon, however un<g ref="char:EOLhyphen"/>der your Protection I muſt plead the privi<g ref="char:EOLhyphen"/>ledg of a Trumpeter to paſs without moleſta<g ref="char:EOLhyphen"/>tion.</p>
+            <closer>
+               <signed>Your obliged Servant <hi>Charles Maſon.</hi>
+               </signed>
+            </closer>
+            <epigraph>
+               <q xml:lang="lat">Nil aut in voluptate ſolidum aut in Virtute munitum, ubi timor infeſtat,</q>
+               <bibl> Lord Bacon. Augm. Scientiarum. Lib. 6.</bibl>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:95929:3"/>
+            <head>Miles Chriſtianus.</head>
+            <head type="sub">A SERMON Preach't to the Artillery-Company.</head>
+            <opener>
+               <dateline>
+                  <date>Octob. 16. 1673.</date>
+               </dateline>
+            </opener>
+            <epigraph>
+               <bibl>2. Tim. 2.3.</bibl>
+               <q>
+                  <p>Thou therefore endure hardneſs as a good Souldier of Jeſus Chriſt.</p>
+               </q>
+            </epigraph>
+            <p>OUr deareſt Lord and Saviour, though Prince of that Peace, which he thought the beſt tidings at his birth, the beſt Salutation after his riſing from the Grave, the beſt Legacy and farewel before his aſcenſion, yet ſaith <hi>Matt.</hi> 10.34. <hi>I am not come to ſend peace but a ſword.</hi>
+            </p>
+            <p>And the practiſe of moſt, is ſuch, as if they were not a prediction of what would come to paſs, but an expreſs commiſſion to take up arms in any cauſe, as if thoſe to be entered into Chriſt his Service, were to be baptized
+<pb n="2" facs="tcp:95929:4"/>with the waters of ſtrife, or to receive <hi>Catalins</hi> Sacra<g ref="char:EOLhyphen"/>ment of blood, as if Chriſt had ſaid to his Diſciples, as <hi>Abner</hi> to his and <hi>Joabs</hi> Souldiers, <hi>let the young men now ariſe and play before us.</hi> 2 Sam. 2. but indeed the chief va<g ref="char:EOLhyphen"/>lor Chriſt then exhorted Chriſtians to, was practice, ſuch as St. <hi>Paul</hi> incites his Livetenant <hi>Timothy</hi> to, in the words of my Text. <hi>Thou therefore</hi> &amp;c. As then the antients before they joynd battel, did make ſome obſervations from the heavens, ſo it will not be amiſs to take up ſome ſignal notes by the way.</p>
+            <p n="1">1. All the Advance the firſt Commanders in Chriſtian warfare gave to thoſe liſted in Chriſt's Service, was (as to this life) a promiſe of perſecution. And was ever any Army rais'd on ſuch tearms? This is that Invincible Ar<g ref="char:EOLhyphen"/>gument for the truth of the Chriſtian cauſe, that Impreg<g ref="char:EOLhyphen"/>nable fort which can neither be ſtorm'd, underminded, ſtarv'd, nor betrayd. The Sinews of this war were not an earthly treaſure, Heaven was their Magazine, Store<g ref="char:EOLhyphen"/>houſe and Granary, like thoſe who fought for <hi>Iſrael</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Siſera, they took no gain of money, they fought from heaven.</hi> Judg. 5.19.20.</p>
+            <p n="2">2. Note Chriſt and his Commanders put no duty on the meaneſt Souldiers under them, but what they them<g ref="char:EOLhyphen"/>ſelves exemplified, not like <hi>Peter</hi> the <hi>Hermit</hi> in the holy war, which he had promoted (pretending a Commiſſion from God) but when they were to joyn battel, with the Enemy, fell to the Rear, ſaying.
+<q>
+                  <l>Fall on you ſtout and Valiant men of might,</l>
+                  <l>For 'tis our parts to pray, and yours to fight.</l>
+               </q>
+            </p>
+            <p>But rather as the brave <hi>Corvinus</hi> who comprehended the Sum of all Roman eloquence to Soldiers in two words; <hi>viz. Sequimini me</hi> follow me. Or <hi>Iphicrates</hi> the Graecian General, who being to march againſt an
+<pb n="3" facs="tcp:95929:4"/>Enemy in an extream cold night, that he might be a Preſident of hard-ſhip, threw off his upper garment, and went as thinly clad, as the meaneſt under his Command. Or <hi>Cato,</hi> when he was to conduct the broken forces of <hi>Pompey</hi> through the Scorcht Sands of <hi>Lybia,</hi> invited his Soldiers to follow him into a place where Corn and Wine were never ſeen, into a dry wilderneſs incompaſſed with horror round about; becauſe he would not deceive them with falſe hopes, or concealed fears.</p>
+            <p n="3">3. Since our Chriſtian State ſtiled a warfare, (though Similitudes do rather illuſtrate then teach) yet, ſince there muſt be an agreement between the things compared at leaſt in the main, leſs cannot he intimated then, 1, that in the Chriſtian warfare Diſcipline is neceſſary, and as no Armies can ſubſiſt without it, ſo neither can the Church Militant. And as the ancient <hi>Romans</hi> prevailed more by ſtrict obſervance of Martial rules, then either by their Valor or Juſtice of their cauſe. For the latter they pre<g ref="char:EOLhyphen"/>tended none but a dream, that <hi>Rome</hi> ſhould be the head City of the whole world; ſo 'tis with <hi>Rome,</hi> Chriſtian 'tis a dream of Supremacy confidently affirm'd, and obeying the word of command, that carries on their work, and being kept under the ſame ſtrictneſs of Diſcipline, which <hi>Severus</hi> the Emperor us'd in his Armies, which being en<g ref="char:EOLhyphen"/>campt by Orchards and Vineyards toucht not an Apple or Grape, as if they had not been men of the ſword but of the gown, not <hi>Soliders,</hi> but <hi>Senators.</hi> Or <hi>Brutus</hi> who ſpared not his own Sons, though but Abetters in a con<g ref="char:EOLhyphen"/>ſpiracy againſt the City. And <hi>Manlius Torquatus,</hi> whoſe ſeverity is gone into a Proverb, who ſlew his Son for fighting without command though Victorious. Strict Diſ<g ref="char:EOLhyphen"/>cipline and cloſe order are like the Scales of the <hi>Leviae<g ref="char:EOLhyphen"/>than,</hi> or a Coat of mail not penetrable by an eaſy impreſſion.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:95929:5"/>
+2. Though all who have given their names to Chriſt, are by profeſſion his Soldiers, yet all are not equally con<g ref="char:EOLhyphen"/>cern'd in point of honour. The word <hi>Thou</hi> Signalizes <hi>Timothy,</hi> who was under St. <hi>Paul</hi> Governor of <hi>Epheſus,</hi> the prime <hi>Metropolis</hi> of <hi>Aſia,</hi> yet he muſt endure hardneſs, and be Valiant for the truth, for</p>
+            <p n="1">1. Fear in a Commander is very contagious, it may quickly infect an whole Army; ſhall ſuch a man as I fly? ſaid <hi>Nehemiah,</hi> had he given the word for it, it would have paſt through the whole body as lightning.</p>
+            <p n="2">2. They, who are moſt eminent in Chriſt his ſervice, thoſe the great Enemy ſooneſt Attachs, the moſt faithful and beſt reſolv'd, he does not trouble himſelf with thoſe who fight againſt Chriſt under his own banners, and drive on with the fury of <hi>Jehu,</hi> as if they would take Hell by Violence, but if he can conquer an eminent, worthy, a conſpicuous Champion for Chriſt, for this he builds his Arches, erects his Trophies, and ſings <hi>Victorta.</hi> Let this ſuffice for Survey of the out-works. I ſhall proceed in this Order.</p>
+            <p n="1">1. Give you the definition of Valor by natures light.</p>
+            <p n="2">2. Shew how 'tis improv'd by Chriſt his Diſcipline, from whence will flow a third</p>
+            <p n="3">3. That there is much Valor requir'd to be a true Chriſtian, that a Coward cannot be an honeſt man, much leſs a good Soldier of Jeſus Chriſt. Provided that what is ſpoken be applied to our Spiritual warfare.</p>
+            <p n="1">1. The greateſt Maſter of reaſon defines fortitude to be a mean between fear and confidence <hi>Ariſt. Eth</hi> lib 3. Cap 11. but then he ſeems to confine it too much, as if there were no Valor at Sea as well as at Land, and in ſuffering as well as acti<g ref="char:EOLhyphen"/>ons. Again, we fear many things in which uſually Valor is not exercis'd, as Infamy, which a true Valiant man fears more than
+<pb n="5" facs="tcp:95929:5"/>death it ſelf; for honour is his aim, nor will he for life forfeit the end of his calling. Nor is it any death that fortitude deſpiſes, but that which is uſherd in by a moſt glorious and beautiful danger, which the antient Blazo<g ref="char:EOLhyphen"/>ners of Valor ſet forth in <hi>Pallas</hi> armed with Helmet and Spear; and ſuch a beauty as proclaim'd her Divinity. But then this mettle muſt be attended by two.</p>
+            <p n="1">1. Wiſdome (of which <hi>Pallas</hi> was ſtiled the Goddeſs) otherwiſe 'tis but the Valor of <hi>Jobs</hi> Horſe, who laughs at the Ratling of the Spear, <hi>while his neck is cloathed with Thunder, he paweth in the valley, and rejoyceth in his ſtrength</hi> Job 39. and ſeems to be ſenſible of honor, but is only inſpired by martial Muſick, to Act as an Enthuſiaſt, he knows not what. Common eyes Judge of Valor as they do of fencers or Wreſtlers, who if they come on Robuſ<g ref="char:EOLhyphen"/>tuouſly, and put forward with a great deal of Violence are Judged the braver men, when many times their own rudeneſs is the cauſe of their diſgrace, and a ſlight touch of the Adverſary gives all that boiſterous force a ſhame<g ref="char:EOLhyphen"/>ful foil. But a true Son of honor obſerves all the cir<g ref="char:EOLhyphen"/>cumſtances that make an action great and glorious, there<g ref="char:EOLhyphen"/>fore keeps the mean, neither declines danger when he is concerned, nor is he confident where no hope. He that fears not an evil that vaſtly exceeds all his powers to grapple with, that oppoſes himſelf to an Inundation, and ſcorns to fly from an earthquake, ſuch an one ſaith <hi>Ariſt:</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> wants a name, unleſs we may call him a De<g ref="char:EOLhyphen"/>ſperado, or in our language a phanatick Imitator of true zeal. The Philoſopher calls him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is a bold daring coward, as wanting prudence and tolerancy, the chief ingredients into well weigh'd fortitude. About the ſame Object then are converſant the Coward, the De<g ref="char:EOLhyphen"/>ſperate, and truly Valiant, the firſt in defect, Second in
+<pb n="6" facs="tcp:95929:6"/>exceſs, but the third carrieth himſelf with Mediocrity be<g ref="char:EOLhyphen"/>tween them, he neither fears danger nor does he antici<g ref="char:EOLhyphen"/>pate it. When deliberately ingaged, acts as our earthly fires raging and conſuming, but before, like that heaven<g ref="char:EOLhyphen"/>ly gentle and cheriſhing. Moſt excellent is that of <hi>Pliny Epiſt.</hi> lib 1 <hi>Epiſt</hi> 22. <hi>Impetu quodam ad mortem currere commune cum multis</hi>  to run haſtily to death is common to many, but to make choice of life or death as reaſon and counſel ſhall dictate, is proper to great and generous minds. But to fly to death to avoid poverty, ſhame, captivity, is not fortitude but ſoftneſs and Delicacy to chooſe death; not as more honourable, but as a refuge from that he counts a greater evil. He that can endure a condition of life far worſe then death, is far more brave and reſolute, then he who ſeeks for ſhelter in a grave. <hi>Cato</hi> therefore muſt be disbanded from the num<g ref="char:EOLhyphen"/>ber of the truly Valiant, for he died for fear of death, became of ſlave to avoid Captivity, and rather then grace <hi>Cae<g ref="char:EOLhyphen"/>ſars</hi> triumph would fall a ſacrifice to his own envy and nar<g ref="char:EOLhyphen"/>rowneſs of Spirit. He that cannot ſuffer as well as act, has neither breaſt-plate nor head-piece, has but bruitiſh Valor at beſt, which is not guided by reaſon but anger and blind appetite. Such may be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> but not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> fighters but not truly Valiant ſaith <hi>Ariſt.</hi> for the leaven and ferment of all actions is wiſdome, in which reſpect 'tis ſaid, <hi>Tanti eſt exercitus quanti Imperator,</hi> an Army is to be valued according to their general. It was the parable of the forementioned <hi>Iphicrates,</hi> that an Army of Harts with a Lion Captain, would be able to vanquiſh an Army of Lions, who had but an Hart for their Leader. A wiſe conduct gives this aſſurance to Soldiers, that they ſhall not die like fools, nor be caſt away prodigally. The Second attendant on true Valor is magnanimity, as inſeparable
+<pb n="7" facs="tcp:95929:6"/>from it as heat from fire. Now the magnanimous man is one, who being worthy of great things truly eſtimates his abilities. This greatneſs of mind (ſaith <hi>Ariſt.</hi>) is as beauty in a tall, well proportioned body; ſuch only can be called proper, though leſſer may be neet, and elegant. He that is acted by this Spirit has honour for his aim, the greateſt of external goods, therefore we give it unto God. Now he that is thus qualified muſt needs ſcorn any thing that is infamous, as fraud, injuſtice, breach of truſt, lying, equivocation, colluſion &amp;c: for all theſe proceed from cowardice and baſeneſs of mind, therefore the Antient Comoedians, aſſigned all fallacious parts to Slaves as to a <hi>Davus</hi> or a <hi>Simo,</hi> who like the Fox in the Fable plays all the prancks and deceitful ſtratagems. Again, baſe concealments are from fear, therefore he diſſem<g ref="char:EOLhyphen"/>bles not, ſo is cruelty, (for who more fearful then Tyrants.) Therefore the truly magnanimous is merciful, gives the fair<g ref="char:EOLhyphen"/>eſt Quarter, does not puniſh with death thoſe who ſurren<g ref="char:EOLhyphen"/>der upon mercy, rather raiſes the proſtrate, melts him with kindneſs, as knowing that he who conquers by force only, ſuch does but half the man. <hi>Ahabs</hi> pardoning of <hi>Benhadad</hi> 1 <hi>King.</hi> 20 (if God had not otherwiſe appointed) was worthy of the higheſt Elogy. But <hi>Seſoſtris</hi> the <hi>Egyp<g ref="char:EOLhyphen"/>tian</hi> King who commanded his Chariot to be drawn by four Captive Princes betray'd a ranck, inſolent Spirit, unworthy of his foot-man or baſeſt groom. How far more brave was our <hi>Richard</hi> the firſt, who being ſhot at the Siege of <hi>Chaluz;</hi> and <hi>Bertram,</hi> who did it, being af<g ref="char:EOLhyphen"/>terwards taken and brought before him, who boldly ju<g ref="char:EOLhyphen"/>ſtified the action in ſervice of his Country; the brave Prince, not only cauſed him to be ſet at liberty, but gave him an hundred Shillings ſterling. In this he came near to <hi>David</hi> who pardoned the curſes and reproaches of
+<pb n="8" facs="tcp:95929:7"/>
+               <hi>Shimei</hi> (which wounded deeper a generous Spirit then any Sword can) yet after his Victory he forgave him on this account, that he was that day King of <hi>Iſrael</hi> 2 King. 19.22.</p>
+            <p>One more Royal example of Clemency we have at home (I think not to be paralled by any Hiſtory) who, God like, has not only pardon'd Penitents but advanced them to glory. But the coward never thinks himſelf ſafe while his enemy lives, therefore with trembling hands ſheds the blood of warm peace.</p>
+            <p>But the truly magnanimous cannot be revengeful, is not mindful of injuries, but rather deſpiſes them, nor of contumelies, for he is ſecure of his honor, ſcorns to de<g ref="char:EOLhyphen"/>tract from an enemy, flatters not Princes, for this is ſer<g ref="char:EOLhyphen"/>vile and illiberal, and therefore is the moſt faithful Coun<g ref="char:EOLhyphen"/>ſeller to his Soveraign on the ſame ground that Princes are ſaid to learn no art ſo truly as Horſeman-ſhip. For the generous ſteed is no flatterer, he will throw a Prince as ſoon as his groom. Again, he deſigns all his actions for the publick good. <hi>Iulius Caeſar</hi> failed in this, minded not the common welfare, but made himſelf the Center of all his projections, though he knew not only how to conduct an Army, but to mould it to his mind, and to infuſe into it his own Genius, yet all this ended in <hi>Self,</hi> the only Univerſal <hi>Monarch</hi> and <hi>Generaliſſimo</hi> of the whole world. In a word, he is no admirer of any thing the world can propoſe, except honor, nor is he tranſported with glory, becauſe he knows 'tis due; his Sail is no more than he can bear, counts nothing profi<g ref="char:EOLhyphen"/>table that is not honourable, conſults his Reputation in all undertakings, and againſt baſe actions is brim full of Indignation. This deſcription belongs to Commanders in chief, reſpectively to thoſe under their power.</p>
+            <p>
+               <pb n="9" facs="tcp:95929:7"/>
+Now from what has been ſaid I infer.</p>
+            <p n="1">1. Againſt the great <hi>Alexander,</hi> that he was at beſt but a ſuccesful Murtherer, a Victorious Robber, nor was he truly great, but as great Earthquakes, great fires, great Plagues, great inundations: what he did proceeded not from true fortitude, but audacity; nor was he truly magnanimous but a ranting <hi>Hector.</hi>
+            </p>
+            <p n="2">2. Brought to this Teſt how many thouſands whoſe names have gone out with a mighty noiſe into the U<g ref="char:EOLhyphen"/>niverſe, are found no better then malefactors condemn'd to the gibbet, and all the Execution they did in the field deſerves not ſo much praiſe, as that performed by the Miniſter of Juſtice. Only this is the difference; Succeſs guilds the baſeſt actions, and ſtops all mouths, but thoſe of the Valiant, who call all ſins by their names, as well thoſe which are cloathed in Scarlet, as thoſe which are hanged in chains. Prophet <hi>Iſa.</hi> Cap 46.12 Speak of ſuch as are ſtout-hearted, but far from Righ<g ref="char:EOLhyphen"/>teouſneſs. Such may be ſcourges in Gods hand to chaſtiſe Nations with, as the King of <hi>Babylon Iſa.</hi> 14 and the <hi>Aſſyrian,</hi> whom he calls the Rod of his An<g ref="char:EOLhyphen"/>ger <hi>Iſa.</hi> 10. though he meant not ſo verſ. 7 but over<g ref="char:EOLhyphen"/>ruled he was by the Lord of Hoſt. The Emperors Arms bearing an Eagle with two Heads, and in one beak a thunder bolt, and the other a branch of palm, with this motto <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, each in his time is a fit emblem of Divine government, he has thunderbolts for the rebellious, and palms for the righteous; and for this he makes uſe of men as the faulconer does of
+<pb n="10" facs="tcp:95929:8"/>the enmity of birds, for his own end. But far they are from that fortitude which natural reaſon approves, much more from that which is regulated by the pre<g ref="char:EOLhyphen"/>cepts of our Saviour. Who then is the Soldier of <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt?</hi> take his Character in theſe particulars.</p>
+            <p n="1">1. Is that in my Text, he has learnt to indure hard<g ref="char:EOLhyphen"/>neſs, a ſoft head is not fit for an Helmet, not a ten<g ref="char:EOLhyphen"/>der hand for a Gantlet, ſuch are an eaſy prey, as thoſe of <hi>Laiſh Judg.</hi> 18. who lay basking in the Sun and were ſurprizd by the <hi>Danites,</hi> and ſtill the Northern hardy Nations have been as goads in their ſides, who were' Sons of pleaſure.</p>
+            <p>
+               <hi>Caeſar</hi> gives three reaſons in his Commentaries for the valor of the <hi>Belgae.</hi>
+            </p>
+            <p n="1">1. They were furtheſt from <hi>Provence,</hi> where ſoft court-ſhip was practis'd.</p>
+            <p n="2">2. They dwelt upon a Sea not frequented by ſuch as brought in forraign allurements to pleaſure.</p>
+            <p n="3">3. They bordered on the <hi>Germans,</hi> a warlike Na<g ref="char:EOLhyphen"/>tion. Theſe reaſons made them indure hard-ſhip, ne<g ref="char:EOLhyphen"/>ceſſary both for Spiritual and Temporal warfare.</p>
+            <p>The delicacies of <hi>Capua</hi> deſtroyd <hi>Annibal</hi> after he had overcome the Romans at <hi>Canna.</hi> Nothing can be ſolid that is Soft.</p>
+            <p>
+               <pb n="11" facs="tcp:95929:8"/>
+He is not like to endure much hardſhip, who is already almoſt diſſolved into jelly.</p>
+            <p>Such an one will not endure any powder but that of <hi>Cyprus,</hi> his bed of Honor muſt be ſtuffed with Down, covered with Quilt, and hanged with Silken ſtream<g ref="char:EOLhyphen"/>ers. Yet this is he that is moſt Valiant after the fight, as the <hi>Ephramites</hi> after <hi>Gideons</hi> Victory were very angry becauſe not called to the battel <hi>Judg.</hi> 8. This is he that pays his debts with a <hi>Baſtinado,</hi> and kills thou<g ref="char:EOLhyphen"/>ſands with a <hi>law-bone</hi> of an Aſs. This is he that is moſt forward to unſheath his Sword for a guilded fly called a Miſtriſs, and if he receives an hurt in the Duel, the poor effeminate wretch lies trembling un<g ref="char:EOLhyphen"/>der the hand of the Chirurgeon, being circumciſed for his <hi>Oinah,</hi> and now he muſt have more attendance then a Lady that lies in; the door muſt not Creek, nor one puft of Wind be admitted, all muſt tread ſoft<g ref="char:EOLhyphen"/>ly, as the feet of time, leaſt they diſturb this Son of Thunder.</p>
+            <p n="2">2. A true Chriſtian Soldier takes not that for a badg of honor, which the <hi>Roman</hi> ſlaves were condemn'd to, to fight Duels, he counts it no diminution to his Val<g ref="char:EOLhyphen"/>or to fear Gods laws and the Kings; nor to do that for a ſlight and extravagant word or a Capritch of Wit, which perhaps he would not do for God, the King, or the whole world.</p>
+            <p n="3">3. A good Chriſtian man at Arms cannot be a Sol<g ref="char:EOLhyphen"/>dier of fortune, ſuch an one ſeeds on Iron, like an
+<pb n="12" facs="tcp:95929:9"/>Eſtridg, and is an enemy not to any one party, but to humane Society; like a common Barreter at law, he lives by Quarrels, and whereas a Chriſtian Soldi<g ref="char:EOLhyphen"/>er ſeeks peace by war, as the Chirurgeon does health by exciſion, he fights againſt peace it ſelf, and would, if he could, deſtroy it, and therefore an Inditement ought to be brought in againſt him, as againſt the profeſt <hi>Atheiſt,</hi> in the name of mankind, but the Soldier of Chriſt makes peace his aim, as that man in <hi>Zenophon,</hi> who having lifted up his hand to ſtrike his enemy, in obedience to the word of Command, let it fall again, and was ready to embrace him, and turned his deadly fewd into Friend-ſhip.</p>
+            <p>As he that is of all Religions is truly of none, ſo he cannot be a true friend to any cauſe, that will fight in any Ingagement. Therefore in the forth,</p>
+            <p n="4">4. Place he will as far as he may, know the juſtice of the cauſe he fights for.</p>
+            <p>Conſcience of guilt abates courage, rebates the edge of the Sword, and makes the Gun recoyl on the breaſt of him that diſcharges it. As is the man, ſuch is his ſtrength, and as is the cauſe ſuch is the man, he that knowingly fights man in an unjuſt cauſe, ſaith with the Heathen. <hi>Flectere Si nequeam Superos Acheronta movebo,</hi> Appeals not to the Lord of <hi>Hoſt,</hi> but to the <hi>Prince</hi> of darkneſs. Therefore in the fifth.</p>
+            <p n="5">5. Place the means muſt be juſt as well as the cauſe,
+<pb n="13" facs="tcp:95929:9"/>Though Strategems in war may be lawful, yet not to obtain a Victory by falſhood, and breach of thoſe laws which are national and ought to be kept invio<g ref="char:EOLhyphen"/>lable, for without them there can be no peace, the end of war.</p>
+            <p>So in Spirituals we may not do evil that good may come of it, for this is to fetch fire from Hell to put to that Sacrifice we offer unto God, as thoſe who baptized the <hi>Indians</hi> in their own blood, and made them converts to the grave, for his ſake who came to ſave, not to deſtroy.</p>
+            <p n="6">6. The Perſons muſt be juſt that ingage in any cauſe, otherwiſe they fight againſt Chriſt under his own colours, and he is wounded in the houſe of his Friends.</p>
+            <p>
+               <hi>David</hi> indeed had the refuſe of the People to fol<g ref="char:EOLhyphen"/>low him, ſuch as were in debt and malecontents 1 Sam. 22.2. but as God makes the Divel himſelf to ſerve his end, ſo <hi>Princes</hi> may Imploy ſuch not to Command but obey.</p>
+            <p>But they who will do God and their King good Service, muſt firſt get the Victory over themſelves, and as that Prince is not in caſe for a forraign war, who has civil combuſtions at home; ſo he is fitteſt to go out againſt an enemy who has peace in his own breaſt.
+<pb n="14" facs="tcp:95929:10"/>There is one who writes the Hiſtory of the <hi>Turks,</hi> ſaith, though Monſters in peace, yet in war <hi>vitia de<g ref="char:EOLhyphen"/>ponunt</hi> they lay aſide their ſins, but then he adds <hi>Chriſtiani aſſumunt</hi> Chriſtians take up theſe ſins, which they lay down, O moſt bitter reproach, and ſuch as ought to cover us with confuſion of face.</p>
+            <p n="7">7. A Chriſtian Soldier goes not out in his own ſtrength, 'tis not an Arm of fleſh can do the work, though it could break a bow of Steel, not a mighty Army without the Lord of <hi>Hoſt,</hi> for the <hi>Moabites</hi> were vanquiſht with a ſhadow 2 King. 3.22. <hi>Goliah</hi> by a ſtone and a little ſtripling.</p>
+            <p>Hiſtory tells us of many Armies loſt by miſtake, and of Victories gained not by Valor, but by fear and cowardice.</p>
+            <p>
+               <hi>Rome,</hi> which was the head City then of the whole known world, was loſt by a ſlight moment turning the Scale, in the laſt battel between <hi>Caeſar</hi> and the younger <hi>Pompey;</hi> for King <hi>Bogud,</hi> an Auxiliary on <hi>Pom<g ref="char:EOLhyphen"/>peys</hi> ſide (when <hi>Caeſar</hi> gave the day for loſt) wheeling about with his Brigade to Seize on <hi>Caeſars</hi> Camp, where his Treaſure lay, it was by his own party mi<g ref="char:EOLhyphen"/>ſtaken for a flig<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, and followed by the enemy to ſuch advantage, as gain'd the day; from whence the Hiſtorians concludes <hi>Conſilia non dant homines rebus ſed res hominibus,</hi> men do not ſo much counſel things as things them. But a ſuperior light teaches us, that God diſpoſes of men and their Counſels; therefore we
+<pb n="15" facs="tcp:95929:10"/>muſt remember that all battels are an appeal to God, without whom all humane confidence is blind folly, which falls foul upon it ſelf, ſuch was the preſum<g ref="char:EOLhyphen"/>ption of the <hi>Pompeians</hi> before the firſt battel with <hi>Cae<g ref="char:EOLhyphen"/>ſar,</hi> they caſt dice for all the offices in <hi>Rome,</hi> and for all <hi>Caeſars</hi> Eſtate, not by might, nor by ſtrength, as the Angel told <hi>Zech.</hi> Cap. 4.6. and St <hi>Paul</hi> gives us a compendious reaſon for it of him, and through him, and to him are all things. <hi>Rom.</hi> 11.36.</p>
+            <p>And thus 'tis in Spirituals, God has promiſed Hea<g ref="char:EOLhyphen"/>ven to the humble and meek, <hi>Typified</hi> by the Land of promiſe, which was gain'd not by humane power, but by Gods gift. Nor will deepeſt Counſels prevail where God oppoſes.</p>
+            <p>
+               <hi>Achitophel</hi> was hamperd in his own Policy. Gods peculiar hand is not in any Subject of humane con<g ref="char:EOLhyphen"/>templation, ſo ſignal and conſpicuous as in war, for contingencies are there moſt frequent; and the rareſt conjunction in the world is Valor with wiſedom. There<g ref="char:EOLhyphen"/>fore in actions beſt managed, there is reaſon to aſſign more to providence then conduct; and the great <hi>Iu<g ref="char:EOLhyphen"/>lius Caeſar</hi> after four and twenty pitcht fields, was forced to acknowledge this. Captains may call coun<g ref="char:EOLhyphen"/>ſels, but God determines, they may order their men as they pleaſe, but 'tis God diſpoſes. We have a ſignal inſtance for this 2 <hi>King.</hi> 19. in <hi>Sennacherib</hi> no man of a more Gyant-like confidence, who looked as if he would ſcatter <hi>Hezekiahs</hi> forces with his eyes, and ſpake as if he would diſpell them with his breath, yet God put
+<pb n="16" facs="tcp:95929:11"/>his hook into his noſtrils, and drag'd that furious Monſter into his own Country, there to fall by his own bowels, in the houſe of his falſe Gods.</p>
+            <p>As all finite powers muſt be Subject to Gods om<g ref="char:EOLhyphen"/>nipotency, ſo all wiſedom of man to his omniſcien<g ref="char:EOLhyphen"/>cy. Yet.</p>
+            <p n="8">8. Will not the Victory be obtained without in<g ref="char:EOLhyphen"/>deavours and wiſe Councels? for God delights not either in fools, ſluggards, or cowards. Our ſtrength is not to ſit ſtill as it was <hi>Iſ.</hi> 30.7. not to ſtand ſtill and ſee the Salvation of the Lord as in the times of <hi>Ioſhua.</hi> The rule is ſo to prepare, as if God ſtood Neuter, ſo to rely on God, as if no help from man. Thus in Spirituals, <hi>we muſt work out our Salvation with fear and trembling,</hi> but withall humbly acknow<g ref="char:EOLhyphen"/>ledge, that 'tis God <hi>that worketh in us both to will and to do.</hi> Phil. 2.12.13.</p>
+            <p n="9">9. A Chriſtian Commander aws his Souldiers more by the dignity of his Perſon than his power, and thoſe under him fear more to be cowards, than to en<g ref="char:EOLhyphen"/>counter the fierceſt Enemy.</p>
+            <p n="10">10. A Chriſtian Soldier never ſtands neuter, when Religion, peace and welfare of the Nation are con<g ref="char:EOLhyphen"/>cern'd, ſo the lukewarm in Religion are condemned. <hi>Rev.</hi> 3.15.</p>
+            <p>Such deſerve <hi>Metus Fufetius</hi> his puniſhment, Com<g ref="char:EOLhyphen"/>mander
+<pb n="17" facs="tcp:95929:11"/>mander he was of the <hi>Albans,</hi> who having by League ingaged for the <hi>Romans</hi> ſtood at a diſtance, expecting the event between them and their enemies, there<g ref="char:EOLhyphen"/>fore in the Cloſe, was drawn in pieces and ſhared be<g ref="char:EOLhyphen"/>tween them.</p>
+            <p>Laſtly, as no factious Spirit can be a good mem<g ref="char:EOLhyphen"/>ber of the Church Militant, ſo no Chriſtian Soldier will be a mutineer, but will ſay with the brave <hi>San<g ref="char:EOLhyphen"/>yard,</hi> rather then he will make commotion for want of pay, he would feed on one Arme, and fight with the other. From all which it follows, that there is much Valor required to be a true Chriſtian, that a coward cannot be an honeſt man, much leſs a Sol<g ref="char:EOLhyphen"/>dier of <hi>Ieſus Chriſt.</hi> The ſame courage that inabled the Primitive Chriſtians to break through the firſt ranks, made them paſs through all the <hi>Pikes,</hi> which the three great Generals had placed againſt them, theſe are the world, fleſh, and the Divel. Againſt this Triple league are we ingaged, when we firſt en<g ref="char:EOLhyphen"/>ter into the Church Militant; a bare declaration for Chriſt was in the firſt age a point of higheſt Valor.</p>
+            <p>But now the front of that Battel, which only was dreadfull to them is turned in, to ſhew to us to pro<g ref="char:EOLhyphen"/>feſs Chriſt is now no more danger than what is in the Artillery-yard.</p>
+            <p>They were the Deſperate Forlorn-hope, we enjoy the price of their blood, but our care muſt be, leaſt we be underminded, or betrayed by that peace we en<g ref="char:EOLhyphen"/>joy.
+<pb n="18" facs="tcp:95929:12"/>This muſt be done by keeping peace in ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own breaſts, for there is a warlike oppoſition be<g ref="char:EOLhyphen"/>tween Body and Soul, and as civil war is of all moſt miſerable, ſo in the ſame breaſt is a conflict between paſſions and conſcience, or if the former be quiet as in deep ſecurity, miſtaken for peace, if without a good conſcience, they are rather huſht then compos'd. 'Tis a peace diſhonourable, or rather a war wrapt up in the name of peace, a Conſpiracy of Soldiers againſt their Commander of Slaves, againſt their Lord Subjects, againſt their <hi>Soveraign,</hi> ſuch as <hi>Tully</hi> diſſwaded the Romans from, when he ſaid to make peace with M. <hi>Antony</hi> was to compound for their Slavery.</p>
+            <p>Now 'tis fear that is the great diſturber of reaſon and conſcience, from this fear only, leaſt Poverty ſhould come upon us as an Armed man, ariſe all theſe Locuſts, as from the infernal Pit, frauds, lies, cheats, perjuries, baſe and Servile flatteries, Treaſons, and moſt ſins againſt our Brother ariſe from Cowar<g ref="char:EOLhyphen"/>diſe. For when men dare not truſt Gods conduct in their affairs, they betake themſelves to doublings and redoubts. Fear made <hi>Pilate</hi> deliver Chriſt againſt his conſcience, and ſo he became a worſe Slave to <hi>Caeſar,</hi> then the common Hang-man is in Execution of ju<g ref="char:EOLhyphen"/>ſtice.</p>
+            <p>And moſt ſins againſt the firſt Fable are from per<g ref="char:EOLhyphen"/>verſe fear, this was the Mother of ſuperſtition and Idolatry amongſt the Heathens: hence they had their placatory ſacrifice to ſuch Gods as might do them
+<pb n="19" facs="tcp:95929:12"/>harm, and Propitiatory to thoſe from whom they expected any good. 'Tis fear makes the ranting <hi>Atheiſt</hi> deny accounts in the next World, he dares not ſtand to a Trial, and fears leaſt his pleaſures ſhould be diſtrubed with ſad thoughts, and as the Antient taught by the <hi>Druides,</hi> that thoſe who died for their Country ſhould live again, ſcorned to ſpare that life which ſhould re<g ref="char:EOLhyphen"/>turn, ſo he whoſe All is terminated in the body, muſt needs be overawed by fear from all great and glori<g ref="char:EOLhyphen"/>ous actions, tending to the publick good. For ſuch an one whoſe hopes end here is for <hi>Neros</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> would be willing all the world ſhould periſh with himſelf; or could be content to live alone, though there were none extant but himſelf on the face of the earth; ſo he may be freed from that fear which alone he ſaith, Unites men in humane Society. Such a one may brave it a while, as the <hi>Leviathan</hi> in the deep, but muſt needs be of an abject and Cowardly Spirit under preſſures, for as thoſe who make Dwarfs by art, keep them under by bodily reſtraints, ſuch an effect have ſtreits on ſervile Spirits, they become baſe and degenerous, but they have a contrary effect on the Noble and generous. St. <hi>Pauls</hi> confinement en<g ref="char:EOLhyphen"/>larged his heart becauſe the Goſpel was not bound. 2 Tim. 2.9. how full of God and heavenly fire was that glorious <hi>Champion</hi> for the cauſe of Chriſt, the Sun in all his courſe ſaw not one more emulous with himſelf, for the common good, he fought, as if he had only aſſumed his body, and was no more con<g ref="char:EOLhyphen"/>cerned in it, then if it had been an upper garment, or that mantle which <hi>Elias</hi> dropt, aſcending in his
+<pb n="20" facs="tcp:95929:13" rendition="simple:additions"/>fiery <hi>Chariot.</hi> To Conclude, the firſt we find ex<g ref="char:EOLhyphen"/>cluded from heaven are the Cowards <hi>Revelat.</hi> 21.8. and none but the Valiant can take heaven by Violence.</p>
+            <p>Such are more then Conquerors, others may be Slaves to their own Victories, as that <hi>Roman</hi> Empe<g ref="char:EOLhyphen"/>ror, who riding in triumph caſt his eye upon a Cap<g ref="char:EOLhyphen"/>tive beauty, and preſently became a Vaſſal to his own Priſoner; but the Chriſtian Soldier purſues his Victory, ſtaies not to enjoy it, and having done all, hangs up his Trophies in the Temple, aſcribes all to the great Captain of our Salvation, even Jeſus Chriſt the Righteous; to whom with the Father and Bleſſed Spirit, be all honor and Glory, now and for ever. Amen.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
